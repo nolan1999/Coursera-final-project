@@ -1,2 +1,4 @@
 # Coursera-final-project
-**to view the folium map (and the notebook), please use nbviewer (https://nbviewer.jupyter.org/github/nolan1999/Coursera-final-project/blob/master/Pizzeria_prediction.ipynb#?)**
+
+Capstone project for data science MOOC.
+The report and the notebook do not much, since the report was written for older data.

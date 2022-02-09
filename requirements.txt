@@ -1,0 +1,14 @@
+bs4
+python-dotenv
+folium
+geocoder
+geopy
+ipykernel
+jupyter
+lxml
+matplotlib
+notebook
+numpy
+pandas
+requests
+sklearn
